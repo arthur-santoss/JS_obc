@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function createLabel(text, htmlFor) {
     const label = document.createElement('label')
     label.htmlFor = htmlFor
@@ -87,3 +88,5 @@ function createLabel(text, htmlFor) {
 
     console.log(developers)
   })
+
+
